@@ -125,7 +125,7 @@ Note the `InGameActions` section, ensure it is present as this is what causes th
 ### Finally...
 Restart the game, with **FireTuner** open Select `Singleplayer > Play Now`, once the game is loaded we should see `Hello World from Lua Script` in the **FireTuner** Lua console and also in the `Lua.log`
 
-![hello-world-from-script](../static/img/guides/hello-world-Lua/hello-world-from-the-lua-script.png)
+![hello-world-from-script](../static/img/guides/hello-world-lua/hello-world-from-the-lua-script.png)
 
 
 :::note
