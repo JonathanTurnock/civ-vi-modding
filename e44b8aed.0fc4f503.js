@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{84:function(o){o.exports=JSON.parse('{"allTagsPath":"/civ-vi-modding/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/civ-vi-modding/blog/tags/hello"}')}}]);
