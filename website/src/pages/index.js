@@ -82,8 +82,7 @@ const Home = () => {
           </section>
         )}
         <div style={{display: "flex", width: "100%", justifyContent: "center", flexDirection: "column", alignItems: "center"}}>
-          <p>If you find the information on this site useful please consider supporting it</p>
-          <BuyMeACoffee />
+          <p>If you find the information on this site useful please consider sharing it</p>
           </div>
       </main>
     </Layout>

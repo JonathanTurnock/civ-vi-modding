@@ -56,10 +56,10 @@ module.exports = {
               label: 'GitHub',
               href: 'https://github.com/JonathanTurnock/civ-vi-modding/',
             },
-            {
-              label: 'Gift Gold',
-              href: 'https://www.buymeacoffee.com/Yvd79ZDm6',
-            },
+            // {
+            //   label: 'Gift Gold',
+            //   href: 'https://www.buymeacoffee.com/Yvd79ZDm6',
+            // },
           ],
         },
       ],
