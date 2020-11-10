@@ -29,7 +29,7 @@ Open the **Lua.log** file from the following directory
 
 Scroll to the bottom of the file, you should see that our print statement appeared, excellent.
 
-![hello-world-from-console](../static/img/guides/hello-world-Lua/hello-world-from-the-Lua-console.png)
+![hello-world-from-console](../static/img/guides/hello-world-lua/hello-world-from-the-Lua-console.png)
 
 :::note
 Make a note of the log folder location, we will need this in the future!
@@ -92,7 +92,7 @@ to `%USERPROFILE%\Documents\My Games\Sid Meier's Civilization VI\Mods`
 Ensure the build is successful to prevent any issues
 :::
 
-![build-solution](../static/img/guides/hello-world-Lua/built-solution.png)
+![build-solution](../static/img/guides/hello-world-lua/built-solution.png)
 
 Open the built Mod in `%USERPROFILE%\Documents\My Games\Sid Meier's Civilization VI\Mods\HelloWorldMod`, open the `.MODINFO` file
 
