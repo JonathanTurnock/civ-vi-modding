@@ -5,8 +5,6 @@ sidebar_label: Introduction
 slug: /
 ---
 
-## Introduction
-
 Hi there, 👋 
 
 Welcome to my Civ VI modding wiki, these pages have been created as a reference while wading through the challanges of modding Civ VI.
