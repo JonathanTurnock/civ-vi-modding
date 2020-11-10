@@ -20,8 +20,8 @@ It gives us an environment and provides a useful set of tools to get up and runn
 
 ### FireTuner
 The FireTuner/LiveTuner is a companion application that we run alongside CIV VI. Which provides the following:
-- **LUA console** where you can execute LUA code in the running game.
-- **Panels** these panels are collections of views like tables, lists, drop downs, inputs etc that are backed by LUA code.
+- **Lua console** where you can execute Lua code in the running game.
+- **Panels** these panels are collections of views like tables, lists, drop downs, inputs etc that are backed by Lua code.
 
 ![sdk-firetuner-example](../static/img/civ-vi-firetuner-example.png)
 
@@ -58,9 +58,9 @@ While the documentation is not strictly a tool, it is very interesting, it links
 
 **Forge UI**
 - Debug Features
-- LUA Conventions
-- LUA Input
-- LUA Reference
+- Lua Conventions
+- Lua Input
+- Lua Reference
 - Reference Guide
 
 **Forge UI\Controls**
