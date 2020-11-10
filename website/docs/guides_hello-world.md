@@ -29,7 +29,7 @@ Open the **Lua.log** file from the following directory
 
 Scroll to the bottom of the file, you should see that our print statement appeared, excellent.
 
-![hello-world-from-console](../static/img/guides/hello-world-lua/hello-world-from-the-Lua-console.png)
+![hello-world-from-console](../static/img/guides/hello-world-lua/hello-world-from-the-lua-console.png)
 
 :::note
 Make a note of the log folder location, we will need this in the future!
