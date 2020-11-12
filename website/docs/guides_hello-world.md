@@ -10,12 +10,12 @@ In this new Mod we are going to get familiar with the process of Executing Lua c
 We will first send the message `Hello World from the Lua console` to the logs, we will then create a new mod
 and send the message `Hello World from the Lua Script` to the logs.
 
-It's not groundbreaking but this marks the first time we are going to be able to execute Lua code from a mod and 
+It's not groundbreaking but this marks the first time we are going to be able to execute Lua code from a mod and
 we will get familiar with how to view log output!
 
 ## Sending from the Console
 
-If you have not already, follow the [setup guide](/docs/fire-tuner) and get the **FireTuner** running. 
+If you have not already, follow the [setup guide](/docs/fire-tuner) and get the **FireTuner** running.
 
 Inside the **Lua Console** paste the following snippet
 ```Lua
@@ -55,13 +55,13 @@ select **add > New Item...** from the options choose **Lua Script** and call it 
 
 Inside the new file add the `print` statement, your file should look something like so
 
-```Lua
+```lua
 -- HelloWorld
 -- Author: jonat
 -- DateCreated: 11/10/2020 7:57:33 PM
 --------------------------------------------------------------
 print("Hello World from the Lua Script")
-``` 
+```
 
 ### Registering Hello World Lua
 
@@ -73,9 +73,9 @@ We are going to use the **In-Game Action**.
 
 In **ModBuddy** right click on the mod under the solution and select **properties**, this is where can customize the contents of the `.MODINFO` file that is built
 
-- Navigate to **In-Game Actions** 
+- Navigate to **In-Game Actions**
 - Select **Add Action**
-- Select the new action and give it an **ID** of `HelloWorldAction` 
+- Select the new action and give it an **ID** of `HelloWorldAction`
 - Change the **type** to `AddGameplayScripts` (for now ignore the criteria etc)
 - Expand the **files** option and **Add** a new file, choose the `HelloWorld.Lua` we created earlier (leave the priority blank)
 
@@ -129,7 +129,7 @@ Restart the game, with **FireTuner** open Select `Singleplayer > Play Now`, once
 
 
 :::note
-The source code for this example is available in the [Github Repo](https://github.com/JonathanTurnock/civ-vi-modding/guides/hello-world-lua-mod). 
+The source code for this example is available in the [Github Repo](https://github.com/JonathanTurnock/civ-vi-modding/guides/hello-world-lua-mod).
 
-If you are encountering issues try cross-referencing the examples. 
+If you are encountering issues try cross-referencing the examples.
 :::
